@@ -1,0 +1,44 @@
+:root {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  p {
+    background-color: rgb(145, 152, 12);
+  }
+  
+  h2 {
+    text-transform: uppercase;
+    color: darkcyan;
+  }
+  
+  h4 {
+    text-transform: uppercase;
+    color: darkred;
+  }
+  
+  .center {
+    text-align: center;
+    color: red;
+  }
+  
+  p.center {
+    color: blue;
+    font-size: 1.3em;
+  }
+  
+  #chapter {
+    font-weight: 900;
+    text-transform: uppercase;
+  }
+  
+  h2,
+  #chapter {
+    text-transform: uppercase;
+    color: green;
+  }
+  
+  h1,
+  h2,
+  .center {
+    text-align: center;
+  }  
