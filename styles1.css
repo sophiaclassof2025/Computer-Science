@@ -1,0 +1,5 @@
+p::before {
+    content: "this is ";
+    font-style: italic;
+    font-weight: bold;
+}
